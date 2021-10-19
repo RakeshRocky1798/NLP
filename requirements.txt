@@ -1,0 +1,7 @@
+Package needs to be installed:
+
+networkx
+random
+mpl_toolkits.mplot3d
+matplotlib.pyplot
+numpy
